@@ -77,7 +77,7 @@ Após clonar o projeto é necessario instalar o framework Django através do ´�
 
 [](https://github.com/cinthiakarizono)
 <div>
-img src = "https://avatars.githubusercontent.com/u/99759466?s=96&v=4" width=115><br><sub>Cinthia Kazue Arizono</sub>
+<img src = "https://avatars.githubusercontent.com/u/99759466?s=96&v=4" width=115 /><br><sub>Cinthia Kazue Arizono</sub>
 </div>
 
 

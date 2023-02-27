@@ -25,27 +25,45 @@ Projeto em desenvolvimento
 
 1 - Permite cadastrar alunos com nome, rg, cpf e data de nascimento
 
-[Cadastro de aluno](![aluno](https://user-images.githubusercontent.com/99759466/221447447-2537682e-745c-40d0-b9de-8c06256dbbda.png))
+[cadastro aluno](https://user-images.githubusercontent.com/99759466/221447447-2537682e-745c-40d0-b9de-8c06256dbbda.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99759466/221447447-2537682e-745c-40d0-b9de-8c06256dbbda.png" width="700px" />
+</div>
 
 2 - Permite alterar os dados de um aluno ja cadastrado ou deletar um aluno
 
-[Alteração de cadastro](![alunos](https://user-images.githubusercontent.com/99759466/221447771-e4373339-363f-4b6a-8df1-4b957a7d66ef.png))
+[Alteração cadastro](https://user-images.githubusercontent.com/99759466/221447771-e4373339-363f-4b6a-8df1-4b957a7d66ef.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99759466/221447771-e4373339-363f-4b6a-8df1-4b957a7d66ef.png" width="700px" />
+</div>
 
 3 - Permite cadastrar um curso com o codigo do curso, descrição e nível
 
-[Cadastro do curso](![curso](https://user-images.githubusercontent.com/99759466/221447435-33a29ed9-623d-4e48-871a-839873543124.png))
+[Cadastro curso](https://user-images.githubusercontent.com/99759466/221447435-33a29ed9-623d-4e48-871a-839873543124.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99759466/221447435-33a29ed9-623d-4e48-871a-839873543124.png" width="700px" />
+</div>
 
 4 - Permite alterar os dados de um curso ja cadastrado ou deletar um curso
 
-[Alteração de cadastro](![cursos](https://user-images.githubusercontent.com/99759466/221447940-8740d0d5-2d0d-4bf8-8fc3-729657bc65d2.png))
+[Alteração cadastro](https://user-images.githubusercontent.com/99759466/221447940-8740d0d5-2d0d-4bf8-8fc3-729657bc65d2.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99759466/221447940-8740d0d5-2d0d-4bf8-8fc3-729657bc65d2.png" width="700px" />
+</div>
 
 5 - Permite matricular um aluno cadastrado em um curso cadastrado
 
-[Matricula de um aluno em um curso](![matricula](https://user-images.githubusercontent.com/99759466/221447441-89b1512b-6a4d-49f1-859d-4a551fb36ded.png))
+[Matricula aluno](https://user-images.githubusercontent.com/99759466/221447441-89b1512b-6a4d-49f1-859d-4a551fb36ded.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99759466/221447441-89b1512b-6a4d-49f1-859d-4a551fb36ded.png" width="700px" />
+</div>
 
 6 - Permite alterar o aluno, o curso e/ou o periodo de uma matricula existente e, ainda permite deletar uma matricula
 
-[Alteração de matricula](![matriculas](https://user-images.githubusercontent.com/99759466/221448315-048e9df1-caef-4cf2-8046-6d1df8d85f4e.png))
+[Alteração matriculas](https://user-images.githubusercontent.com/99759466/221448315-048e9df1-caef-4cf2-8046-6d1df8d85f4e.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99759466/221448315-048e9df1-caef-4cf2-8046-6d1df8d85f4e.png" width="700px" />
+</div>
 
 # Tecnologias utilizadas
 
@@ -57,7 +75,10 @@ Após clonar o projeto é necessario instalar o framework Django através do ´�
 
 # Pessoas desenvolvedoras
 
-[img src = "https://avatars.githubusercontent.com/u/99759466?s=96&v=4" width=115><br><sub>Cinthia Kazue Arizono</sub>](https://github.com/cinthiakarizono)
+[](https://github.com/cinthiakarizono)
+<div>
+img src = "https://avatars.githubusercontent.com/u/99759466?s=96&v=4" width=115><br><sub>Cinthia Kazue Arizono</sub>
+</div>
 
 
 

@@ -1,12 +1,9 @@
 # PAGINA DE CADASTRO
 
-# Título e Imagem de capa
-
 [Pagina inicial de cadastro](video\pagina_inicial.png)
 
 # Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)

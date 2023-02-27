@@ -1,6 +1,6 @@
 # PAGINA DE CADASTRO
 
-[Pagina inicial de cadastro](video\pagina_inicial.png)
+[Pagina inicial de cadastro](![pagina_inicial](https://user-images.githubusercontent.com/99759466/221447121-0c585b5d-aa73-4215-bf44-70f90fa0cb74.png))
 
 # Índice 
 
@@ -23,9 +23,29 @@ Projeto em desenvolvimento
 
 # Funcionalidades e demonstração da aplicação
 
-O projeto permite adicionar um novo aluno, informando o nome, rg, cpf e data de nascimento, também permite alterar o nome de um aluno ja cadastrado. Também é possível cadastrar um curso com o codigo do curso, a descrção e o nível, sendo permitida a alteração de todos os dados de um curso ja cadastrado. Além disso, é possivel matricular um aluno cadastrado em um curso cadastrado, e adicionar o periodo do curso. Para todos os cadastros é possivel realizar a exclusão.
+1 - Permite cadastrar alunos com nome, rg, cpf e data de nascimento
 
-[demonstração da pagina de cadastro](video\cadastro1.mp4)
+[Cadastro de aluno](![aluno](https://user-images.githubusercontent.com/99759466/221447447-2537682e-745c-40d0-b9de-8c06256dbbda.png))
+
+2 - Permite alterar os dados de um aluno ja cadastrado ou deletar um aluno
+
+[Alteração de cadastro](![alunos](https://user-images.githubusercontent.com/99759466/221447771-e4373339-363f-4b6a-8df1-4b957a7d66ef.png))
+
+3 - Permite cadastrar um curso com o codigo do curso, descrição e nível
+
+[Cadastro do curso](![curso](https://user-images.githubusercontent.com/99759466/221447435-33a29ed9-623d-4e48-871a-839873543124.png))
+
+4 - Permite alterar os dados de um curso ja cadastrado ou deletar um curso
+
+[Alteração de cadastro](![cursos](https://user-images.githubusercontent.com/99759466/221447940-8740d0d5-2d0d-4bf8-8fc3-729657bc65d2.png))
+
+5 - Permite matricular um aluno cadastrado em um curso cadastrado
+
+[Matricula de um aluno em um curso](![matricula](https://user-images.githubusercontent.com/99759466/221447441-89b1512b-6a4d-49f1-859d-4a551fb36ded.png))
+
+6 - Permite alterar o aluno, o curso e/ou o periodo de uma matricula existente e, ainda permite deletar uma matricula
+
+[Alteração de matricula](![matriculas](https://user-images.githubusercontent.com/99759466/221448315-048e9df1-caef-4cf2-8046-6d1df8d85f4e.png))
 
 # Tecnologias utilizadas
 
